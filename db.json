@@ -1,0 +1,108 @@
+{
+  "projects": [
+    {
+      "id": "79d8",
+      "name": "Construção do estúdio",
+      "budget": "5896",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "costs": 0,
+      "services": []
+    },
+    {
+      "id": "c4c2",
+      "name": "Novo Projeto",
+      "budget": "546456",
+      "category": {
+        "id": "16",
+        "name": "Tecnologia da Informação"
+      },
+      "costs": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    },
+    {
+      "id": "5",
+      "name": "Marketing"
+    },
+    {
+      "id": "6",
+      "name": "Recursos Humanos"
+    },
+    {
+      "id": "7",
+      "name": "Financeiro"
+    },
+    {
+      "id": "8",
+      "name": "Vendas"
+    },
+    {
+      "id": "9",
+      "name": "Logística"
+    },
+    {
+      "id": "10",
+      "name": "Produção"
+    },
+    {
+      "id": "11",
+      "name": "Pesquisa e Desenvolvimento"
+    },
+    {
+      "id": "12",
+      "name": "Qualidade"
+    },
+    {
+      "id": "13",
+      "name": "Sustentabilidade"
+    },
+    {
+      "id": "14",
+      "name": "Educação"
+    },
+    {
+      "id": "15",
+      "name": "Saúde"
+    },
+    {
+      "id": "16",
+      "name": "Tecnologia da Informação"
+    },
+    {
+      "id": "17",
+      "name": "Jurídico"
+    },
+    {
+      "id": "18",
+      "name": "Gestão de Projetos"
+    },
+    {
+      "id": "19",
+      "name": "Consultoria"
+    },
+    {
+      "id": "20",
+      "name": "Arquitetura"
+    }
+  ]
+}

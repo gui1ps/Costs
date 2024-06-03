@@ -1,0 +1,13 @@
+#form{
+    min-width: 290px;
+    max-width: 568px;
+}
+#fildset{
+    border: none;
+    width: 100%;
+    height: auto;
+}
+#title{
+    text-align: center;
+    margin-bottom: 20px;
+}

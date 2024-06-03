@@ -1,0 +1,7 @@
+.inputComponent{
+    width: 100%;
+    margin-bottom: 3px;
+    border: 1px solid #FF6F00;
+    outline: none;
+    padding: 5px 10px;
+}

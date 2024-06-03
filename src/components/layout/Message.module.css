@@ -1,0 +1,16 @@
+.message{
+    padding: 20px 40px;
+    margin: 0 auto;
+    border: 1px solid;
+    border-radius: 5px;
+    color: white;
+    max-width: 200px;
+}
+.error{
+    background-color: firebrick;
+    border-color: brown;
+}
+.success{
+    background-color:forestgreen;
+    border-color:chartreuse;
+}
